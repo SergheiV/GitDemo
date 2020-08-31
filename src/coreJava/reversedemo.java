@@ -24,6 +24,8 @@ public class reversedemo {
 			System.out.println("it is not a palindrom");
 		}
 
+		String message = new String("hello from the other side"); 
+		message.toUpperCase();
 	}
 
 }
